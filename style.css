@@ -2,6 +2,8 @@
     width: 500px;
     height: 600px;
     background: #f0f0f0;
+    overflow: hidden;
+    filter: blur(2px);
 }
 
 .frame {
